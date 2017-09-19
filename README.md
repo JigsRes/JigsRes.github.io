@@ -1,1 +1,5 @@
-[CS689-Natural-Language-Processing](https://jigsres.github.io/CS689-Natural-Language-Processing/)
+[NLP Projects](https://jigsres.github.io/CS689-Natural-Language-Processing/)
+[Music Recommender System](https://jigsres.github.io/CS670MyTunes/)
+[Tiny SQL Interpreter](https://jigsres.github.io/Tiny-SQL-Interpreter/)
+[Ostracod Sketch Recognition](https://jigsres.github.io/Ostracod-Sketch-Recognition/)
+[AI Projects](https://jigsres.github.io/CS625-Artificial-Intelligence/)
